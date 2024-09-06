@@ -1,0 +1,1 @@
+I went to one lecture at UvA in the course of Machine Learning 1 in the Master of Artificial Intelligence. The prof there explained PCA as dimensionality reduction technique using images of faces. So I just wanted to replicate his work.
